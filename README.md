@@ -124,9 +124,3 @@ Hóspedes:
 - C#  
 - .NET 6/7  
 - Console Application  
-
----
-
-## Licença
-Este projeto está sob a licença **MIT**.
-
